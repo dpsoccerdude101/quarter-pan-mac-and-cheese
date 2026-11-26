@@ -20,14 +20,14 @@ Target fill is 2¼ in, about 5 qt, leaving half an inch for the boil and the bro
 
 ## Ingredients (1½x)
 
-- 1½ lb dry cavatelli
+- 1½ lb dry cavatappi (the video says cavatelli; the pasta on screen is the spiral tube)
 - 1½ lb low-moisture mozzarella, shredded
 - 1½ lb Colby Jack, shredded
 - 12 oz sharp cheddar, shredded
 - 4½ tbsp butter
 - 4½ tbsp all-purpose flour
 - 18 oz evaporated milk (not condensed)
-- 3 cups heavy cream
+- 2½ cups heavy cream (trimmed from 1½× so the sauce still bakes set with the tube shape)
 - 1½ tbsp Dijon mustard
 - 3 tsp kosher salt (1 tbsp Diamond Crystal, 2 tsp Morton's) + pasta water salt
 - 3½ tsp smoked paprika
@@ -39,7 +39,7 @@ Serves 9 to 12.
 
 ## Method
 
-1. Boil pasta in ocean-salty water, 8 min (7 if baking tomorrow). Drain, do not rinse.
+1. Boil cavatappi in ocean-salty water, 8 to 9 min (7 if baking tomorrow). Drain, do not rinse.
 2. Shred all cheese; split each into two bowls, sauce half and layering half.
 3. Mix seasonings; split in half.
 4. Low heat: melt butter, bloom half the seasoning 30 s.
