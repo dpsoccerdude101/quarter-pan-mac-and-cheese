@@ -16,9 +16,9 @@ The video gives no pan size. Its batch — 1 lb dry pasta, 28 fl oz dairy (12 oz
 
 13.5 × 9.625 = 130 in², × 2.75 = 357 in³ = 6.2 qt (5.85 L). That footprint is the half-pan size (12¾ × 10⅜), not a quarter pan.
 
-Pasta and sauce are 1½× the video. With the 56 oz of cheese below, the batch is about 4¾ qt and fills the pan to roughly 2¼ in, leaving room for the boil and the broil. Doubling would put 7 qt in a 6.2 qt pan.
+Pasta is 1½× the video; the sauce is 36 fl oz of dairy instead of the 42 a straight 1½× would want, which is 24 fl oz per lb of pasta against his 28. With the 56 oz of cheese below, the batch is about 4¾ qt and fills the pan to roughly 2 in, leaving room for the boil and the broil. Doubling would put 7 qt in a 6.2 qt pan.
 
-Cheese is 56 oz: mozzarella 16, medium cheddar 8, sharp cheddar 8, Colby Jack 8, mild cheddar 8, Cooper Sharp American 8. That is 2.3:1 cheese to pasta against the video's 2.5:1, ~4¾ qt of fill, about 2¼ in deep. Six cheeses: each halves into both bowls (8 + 4 + 4 + 4 + 4), except the American — 6 oz of it goes into the sauce because its emulsifying salts keep the sauce from breaking, 2 oz stays on top. ("Kobe Jack" read as Colby Jack; Monterey Jack substitutes straight across.)
+Cheese is 56 oz: mozzarella 16, medium cheddar 8, sharp cheddar 8, Colby Jack 8, mild cheddar 8, Cooper Sharp American 8. That is 2.3:1 cheese to pasta against the video's 2.5:1, ~4¾ qt of fill, about 2 in deep. Six cheeses: each halves into both bowls (8 + 4 + 4 + 4 + 4), except the American — 6 oz of it goes into the sauce because its emulsifying salts keep the sauce from breaking, 2 oz stays on top. ("Kobe Jack" read as Colby Jack; Monterey Jack substitutes straight across.)
 
 ## Ingredients (1½x)
 
@@ -31,8 +31,8 @@ Cheese is 56 oz: mozzarella 16, medium cheddar 8, sharp cheddar 8, Colby Jack 8,
 - 8 oz Cooper Sharp American, white
 - 4½ tbsp butter
 - 4½ tbsp all-purpose flour
-- 18 oz evaporated milk (not condensed)
-- 2½ cups heavy cream (trimmed from 1½× so the sauce still bakes set with the tube shape)
+- 12 oz evaporated milk (1 can, not condensed)
+- 3 cups heavy cream (from the quart; 1 cup spare)
 - 1½ tbsp Dijon mustard
 - 3 tsp kosher salt (1 tbsp Diamond Crystal, 2 tsp Morton's) + pasta water salt
 - 3½ tsp smoked paprika
@@ -48,7 +48,7 @@ Serves 16 (cut 4 x 4), or 20 smaller scoops.
 |---|---|
 | Ramekin 1 | 3 tsp kosher salt, 3½ tsp smoked paprika, 2¼ tsp garlic powder, 1 tsp pepper, mixed |
 | Ramekin 2 | Half of Ramekin 1, for blooming in the butter |
-| Pitcher | 18 oz evaporated milk + 2½ cups heavy cream, whisked together |
+| Pitcher | 12 oz evaporated milk + 3 cups heavy cream, whisked together |
 | Small bowl | 1½ tbsp Dijon |
 | Bowl A | Sauce cheese: 8 oz mozzarella, 4 oz medium cheddar, 4 oz sharp cheddar, 4 oz Colby Jack, 4 oz mild cheddar, 6 oz Cooper Sharp |
 | Bowl B | Layering cheese: 8 oz mozzarella, 4 oz medium cheddar, 4 oz sharp cheddar, 4 oz Colby Jack, 4 oz mild cheddar, 2 oz Cooper Sharp |
@@ -65,7 +65,7 @@ Serves 16 (cut 4 x 4), or 20 smaller scoops.
 5. **Pitcher → pot.** Whisk, a third of the milk-and-cream first, then the rest. Never all at once.
 6. **Ramekin 1 → pot, then Dijon.** Rest of the seasoning, then 1½ tbsp mustard. Low, never a boil.
 7. **Bowl A → pot.** A handful at a time, each melted before the next.
-8. **Cavatappi → pot → pan.** 8 to 9 min (7 if tomorrow), drain, no rinse, fold into sauce. Half in the pan, Bowl B, rest of pasta, rest of Bowl B. Level at 2¼ in.
+8. **Cavatappi → pot → pan.** 8 to 9 min (7 if tomorrow), drain, no rinse, fold into sauce. Half in the pan, Bowl B, rest of pasta, rest of Bowl B. Level at 2 in.
 9. **Pan → oven.** 350°F, 30 to 35 min, broil 2 min. Rest 5 min, chives.
 
 ## Files
