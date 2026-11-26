@@ -66,7 +66,7 @@ Serves 16 (cut 4 x 4), or 20 smaller scoops.
 6. **Ramekin 1 → pot, then Dijon.** Rest of the seasoning, then 1½ tbsp mustard. Low, never a boil.
 7. **Bowl A → pot.** A handful at a time, each melted before the next.
 8. **Cavatappi → pot → pan.** 8 to 9 min (7 if tomorrow), drain, no rinse, fold into sauce. Half in the pan, Bowl B, rest of pasta, rest of Bowl B. Level at 2 in.
-9. **Pan → oven.** 350°F, 30 to 35 min, broil 2 min. Rest 5 min, chives.
+9. **Pan → oven.** Uncovered, 350°F, 30 to 35 min, broil 2 min. Rest 5 min, chives. Foil only for a cold make-ahead pan (first half of the bake) or a rescue tent if the top darkens early.
 
 ## Files
 
