@@ -18,15 +18,16 @@ The video gives no pan size. Its batch — 1 lb dry pasta, 28 fl oz dairy (12 oz
 
 Pasta and sauce are 1½× the video. With the 48 oz of cheese below, the batch is about 4¼ qt and fills the pan to roughly 2 in, leaving room for the boil and the broil. Doubling would put 7 qt in a 6.2 qt pan.
 
-Cheese is 48 oz here, not the 60 oz a straight 1½× would want: mild cheddar 16 (block + bag), sharp cheddar 8, Colby Jack 8, mozzarella 16. That is a 2:1 cheese-to-pasta ratio rather than the video's 2.5:1 — still a rich baked mac, about 2 in of fill. If the mild cheddar was counted twice, you have 40 oz; halve whatever you have the same way.
+Cheese is 48 oz here, not the 60 oz a straight 1½× would want: mozzarella 16, medium cheddar 8, sharp cheddar 8, Colby Jack 8, mild cheddar 8. That is a 2:1 cheese-to-pasta ratio rather than the video's 2.5:1 — still a rich baked mac, about 2 in of fill. Each of the five cheeses splits in half: 8 + 4 + 4 + 4 + 4 per bowl. ("Kobe Jack" read as Colby Jack; Monterey Jack substitutes straight across.)
 
 ## Ingredients (1½x)
 
 - 1½ lb dry cavatappi (the video says cavatelli; the pasta on screen is the spiral tube)
-- 1 lb low-moisture mozzarella, shredded (16 oz)
-- 1 lb mild cheddar, shredded (16 oz, block and bag)
-- 8 oz sharp cheddar, shredded
-- 8 oz Colby Jack, shredded
+- 16 oz low-moisture whole-milk mozzarella, shredded (1 bag)
+- 8 oz medium cheddar, block
+- 8 oz sharp cheddar, block
+- 8 oz Colby Jack, block
+- 8 oz mild cheddar, shredded (1 bag)
 - 4½ tbsp butter
 - 4½ tbsp all-purpose flour
 - 18 oz evaporated milk (not condensed)
@@ -48,8 +49,8 @@ Serves 16 (cut 4 x 4), or 20 smaller scoops.
 | Ramekin 2 | Half of Ramekin 1, for blooming in the butter |
 | Pitcher | 18 oz evaporated milk + 2½ cups heavy cream, whisked together |
 | Small bowl | 1½ tbsp Dijon |
-| Bowl A | Sauce cheese: 8 oz mozzarella, 8 oz mild cheddar, 4 oz sharp cheddar, 4 oz Colby Jack |
-| Bowl B | Layering cheese: 8 oz mozzarella, 8 oz mild cheddar, 4 oz sharp cheddar, 4 oz Colby Jack |
+| Bowl A | Sauce cheese: 8 oz mozzarella, 4 oz medium cheddar, 4 oz sharp cheddar, 4 oz Colby Jack, 4 oz mild cheddar |
+| Bowl B | Layering cheese: 8 oz mozzarella, 4 oz medium cheddar, 4 oz sharp cheddar, 4 oz Colby Jack, 4 oz mild cheddar |
 | Board | 2 tbsp snipped chives |
 | By the stove | 4½ tbsp butter, 4½ tbsp flour |
 | Counter | 1½ lb dry cavatappi |
