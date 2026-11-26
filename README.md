@@ -35,7 +35,7 @@ Target fill is 2¼ in, about 5 qt, leaving half an inch for the boil and the bro
 - 1 tsp black pepper
 - 2 tbsp chives
 
-Serves 9 to 12.
+Serves 16 (cut 4 x 4), or 20 smaller scoops.
 
 ## Mise en place (build all of this first)
 
@@ -51,18 +51,18 @@ Serves 9 to 12.
 | By the stove | 4½ tbsp butter, 4½ tbsp flour |
 | Counter | 1½ lb dry cavatappi |
 
-## Method
+## Method, container by container
 
-1. Boil cavatappi in ocean-salty water, 8 to 9 min (7 if baking tomorrow). Drain, do not rinse.
-2. Shred all cheese; split each into two bowls, sauce half and layering half.
-3. Mix seasonings; split in half.
-4. Low heat: melt butter, bloom half the seasoning 30 s.
-5. Add flour, cook 4 to 6 min on low, blond roux.
-6. Whisk in evaporated milk slowly, then cream, then the rest of the seasoning. Béchamel, never a boil.
-7. Whisk in Dijon, then the sauce-half cheese a handful at a time on low heat.
-8. Fold in pasta. Layer: half pasta, half layering cheese, rest of pasta, rest of cheese. Level it at about 2¼ in up the side.
-9. 350°F for 30 to 35 min, until the edges bubble and the center is set, then broil 2 min. Rest 5 min, chives.
+1. Pot of water on high, handful of salt. It should taste like the ocean; 1½ lb of pasta is going in.
+2. Oven to 350°F, rack middle. Pan out.
+3. **Ramekin 2 → pot.** Low heat: melt 4½ tbsp butter, dump in Ramekin 2 (half the seasoning), 30 s, stirring, no browning.
+4. **Flour → pot.** 4½ tbsp, 4 to 6 min on low, until it smells toasted, not raw.
+5. **Pitcher → pot.** Whisk, a third of the milk-and-cream first, then the rest. Never all at once.
+6. **Ramekin 1 → pot, then Dijon.** Rest of the seasoning, then 1½ tbsp mustard. Low, never a boil.
+7. **Bowl A → pot.** A handful at a time, each melted before the next.
+8. **Cavatappi → pot → pan.** 8 to 9 min (7 if tomorrow), drain, no rinse, fold into sauce. Half in the pan, Bowl B, rest of pasta, rest of Bowl B. Level at 2¼ in.
+9. **Pan → oven.** 350°F, 30 to 35 min, broil 2 min. Rest 5 min, chives.
 
 ## Files
 
-- `index.html` — the whole site: pan spec, scaling table, checkable ingredient list with localStorage, method, count-up bake timer with 30 min edge alert and 35 min broiler alert. No build step, no dependencies.
+- `index.html` — the whole site: pan spec, scaling table, checkable mise en place list with localStorage, method ordered by container, count-up bake timer with 30 min edge alert and 35 min broiler alert. No build step, no dependencies.
