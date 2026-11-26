@@ -37,6 +37,20 @@ Target fill is 2¼ in, about 5 qt, leaving half an inch for the boil and the bro
 
 Serves 9 to 12.
 
+## Mise en place (build all of this first)
+
+| Container | Holds |
+|---|---|
+| Ramekin 1 | 3 tsp kosher salt, 3½ tsp smoked paprika, 2¼ tsp garlic powder, 1 tsp pepper, mixed |
+| Ramekin 2 | Half of Ramekin 1, for blooming in the butter |
+| Pitcher | 18 oz evaporated milk + 2½ cups heavy cream, whisked together |
+| Small bowl | 1½ tbsp Dijon |
+| Bowl A | Sauce cheese: 12 oz mozzarella, 12 oz Colby Jack, 6 oz cheddar |
+| Bowl B | Layering cheese: the same three, the other halves |
+| Board | 2 tbsp snipped chives |
+| By the stove | 4½ tbsp butter, 4½ tbsp flour |
+| Counter | 1½ lb dry cavatappi |
+
 ## Method
 
 1. Boil cavatappi in ocean-salty water, 8 to 9 min (7 if baking tomorrow). Drain, do not rinse.

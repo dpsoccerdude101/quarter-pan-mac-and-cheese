@@ -102,6 +102,11 @@ label.pick.done .txt{opacity:.42;text-decoration:line-through}
 .bar{height:4px;background:var(--line);border-radius:2px;overflow:hidden;margin-top:.4rem}
 .bar i{display:block;height:100%;width:0;background:var(--accent);transition:width .2s}
 
+/* mise en place */
+h3.sub3{
+  font:700 .8rem/1.3 sans-serif;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--flags);margin:1.1rem 0 .2rem;padding-top:.6rem;border-top:1px solid var(--line)
+}
 /* steps */
 ol.steps{margin:0;padding:0;list-style:none;counter-reset:s}
 ol.steps li{
@@ -210,39 +215,39 @@ footer p{margin:.35rem 0}
 </section>
 
 <section>
-  <h2>3. Ingredients</h2>
-  <ul class="ing" id="ing">
-    <li><label class="pick"><input type="checkbox" data-k="i1"><span class="txt"><span class="qty">1&frac12; lb</span> cavatappi<small>Dry weight. The spirals and hollow core both hold sauce. Same pasta he means &mdash; just under the name every bag actually prints.</small></span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i2"><span class="txt"><span class="qty">1&frac12; lb</span> low-moisture mozzarella, shredded</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i3"><span class="txt"><span class="qty">1&frac12; lb</span> Colby Jack, shredded</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i4"><span class="txt"><span class="qty">12 oz</span> sharp cheddar, shredded</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i5"><span class="txt"><span class="qty">4&frac12; tbsp</span> butter</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i6"><span class="txt"><span class="qty">4&frac12; tbsp</span> all-purpose flour</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i7"><span class="txt"><span class="qty">18 oz</span> evaporated milk<small>Not condensed. A can and a half of the 12 oz size.</small></span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i8"><span class="txt"><span class="qty">2&frac12; cups</span> heavy cream</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i9"><span class="txt"><span class="qty">1&frac12; tbsp</span> Dijon mustard</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i10"><span class="txt"><span class="qty">3 tsp</span> kosher salt<small>1 tbsp Diamond Crystal, or 2 tsp Morton's. Plus a handful for the pasta water.</small></span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i11"><span class="txt"><span class="qty">3&frac12; tsp</span> smoked paprika<small>He goes heavy. This is already the heavy end.</small></span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i12"><span class="txt"><span class="qty">2&frac14; tsp</span> garlic powder</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i13"><span class="txt"><span class="qty">1 tsp</span> black pepper</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i14"><span class="txt"><span class="qty">2 tbsp</span> chives, snipped<small>Finish only. Optional but it is the color in the bowl.</small></span></label></li>
+  <h2>3. Mise en place</h2>
+  <p class="sub" style="margin:0 0 .9rem">Build all eight containers before the stove goes on. After that the sauce is one continuous 15 minutes and nothing waits on you washing a bowl.</p>
+  <h3 class="sub3">No heat needed &middot; 20 minutes</h3>
+  <ul class="ing" id="mise">
+    <li><label class="pick"><input type="checkbox" data-k="m1"><span class="txt"><span class="qty">Ramekin 1</span> salt, smoked paprika, garlic powder, pepper<small>3 tsp kosher salt, 3&frac12; tsp smoked paprika, 2&frac14; tsp garlic powder, 1 tsp black pepper. Mix, then split half into a second pinch bowl for step 2.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="m2"><span class="txt"><span class="qty">Ramekin 2</span> half the seasoning<small>Blooms in the butter. The rest of Ramekin 1 goes in with the dairy.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="m3"><span class="txt"><span class="qty">Pitcher</span> evaporated milk and cream<small>18 oz evaporated milk (can and a half, not condensed) whisked with 2&frac12; cups heavy cream. Whisking them together first means one pour, not two chances to lump.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="m4"><span class="txt"><span class="qty">Small bowl</span> Dijon<small>1&frac12; tbsp. Goes in after the dairy, before the cheese.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="m5"><span class="txt"><span class="qty">Bowl A</span> cheese for the sauce<small>Half of everything: 12 oz mozzarella, 12 oz Colby Jack, 6 oz cheddar. Wrap and refrigerate if it sits more than an hour.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="m6"><span class="txt"><span class="qty">Bowl B</span> cheese for layering<small>The other half, same amounts, kept dry and loose. This bowl never touches the sauce.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="m7"><span class="txt"><span class="qty">Board</span> chives<small>2 tbsp snipped, held back for the finish. Everything else in this section goes into the pot.</small></span></label></li>
   </ul>
-  <div class="progress"><span id="count">0 of 14 gathered</span><span id="yield">Serves 9 to 12</span></div>
+  <h3 class="sub3">Line up at the stove &middot; seconds</h3>
+  <ul class="ing" id="stove">
+    <li><label class="pick"><input type="checkbox" data-k="m8"><span class="txt"><span class="qty">Your pan</span> butter and flour, pre-measured<small>4&frac12; tbsp each, sitting next to the stove so the roux is a dump, not a fumble.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="m9"><span class="txt"><span class="qty">Counter</span> cavatappi<small>1&frac12; lb dry, still in the bag until the pot is at a rolling boil.</small></span></label></li>
+  </ul>
+  <div class="progress"><span id="count">0 of 9 placed</span><span>Salt, paprika, garlic and pepper share Ramekin 1</span></div>
   <div class="bar"><i id="barfill"></i></div>
 </section>
 
 <section>
-  <h2>4. Method</h2>
+  <h2>4. Method &middot; every container gets used, in order</h2>
   <ol class="steps">
-    <li>Boil the cavatappi in water salted like the ocean, <b>8 to 9 minutes</b>: corkscrew tubes are thick-walled and the box usually says 9. <span class="warn">Baking it tomorrow? 7 minutes.</span> Drain, do not rinse.</li>
-    <li>Shred every cheese. Split each one into two bowls: half for the sauce, half for layering. Two bowls total, not six.</li>
-    <li>Small bowl: mix the salt, smoked paprika, garlic powder and pepper. Split that in half too. Half blooms in the butter, half goes into the sauce later.</li>
-    <li>Low heat: melt the butter, add half the seasoning, bloom <b>30 seconds</b>. Stir, do not brown.</li>
-    <li>Add the flour. Cook on low <b>4 to 6 minutes</b> until it smells like toasted bread, not raw flour.</li>
-    <li>Switch to a whisk. Stream in the evaporated milk, whisking out every lump, then stream in the heavy cream. Add the other half of the seasoning. Low to medium-low, never a boil.</li>
-    <li>Whisk in the Dijon, then the sauce-half cheese a handful at a time, letting each melt before the next. <span class="warn">Keep the heat low or the cheese breaks and turns grainy.</span> This is the biggest batch of sauce here, so keep the pan moving and off the boil. Too thick? Splash of milk.</li>
-    <li>Fold the pasta into the sauce with a spatula. Half the pasta into the pan, half the layering cheese, remaining pasta, remaining cheese. Spread level; the surface should sit about <b>2&frac14; in</b> up the side.</li>
-    <li><b>350&deg;F</b> for <b>30 to 35 minutes</b>, until the edges bubble and the center is set, then <b>broil 2 minutes</b> for the crust. Rest 5 minutes, scatter the chives, cut and serve.</li>
+    <li>Set a large pot of water on high with a handful of salt. It should taste like the ocean; you are dropping 1&frac12; lb of pasta in it.</li>
+    <li>Oven to <b>350&deg;F</b>, rack middle. Get out your pan.</li>
+    <li><b>Ramekin &rarr; pot.</b> Low heat. Melt the butter and dump <b>Ramekin 2</b> (half the seasoning) straight in. It seizes and sizzles for <b>30 seconds</b>; stir it constantly and do not let it brown.</li>
+    <li><b>Flour &rarr; pot.</b> Add the 4&frac12; tbsp and stir on low <b>4 to 6 minutes</b>, until it smells like toasted bread instead of raw flour. It will look like wet sand.</li>
+    <li><b>Pitcher &rarr; pot.</b> Switch to a whisk. Stream in about a third of the milk-and-cream, whisking hard as it thickens and turns glossy, then the rest. <span class="warn">All at once and it goes loose and runny.</span></li>
+    <li><b>Ramekin 1 &rarr; pot, then the Dijon.</b> Whisk in the rest of Ramekin 1, then the 1&frac12; tbsp mustard. Low to medium-low, never a boil.</li>
+    <li><b>Bowl A &rarr; pot.</b> A handful at a time, each melted before the next. <span class="warn">Keep the heat low or the cheese breaks and turns grainy.</span> Too thick? Splash of milk.</li>
+    <li><b>Cavatappi &rarr; pot &rarr; pan.</b> By now the water is boiling: cook <b>8 to 9 minutes</b>, drain and do not rinse (<span class="warn">7 minutes if baking tomorrow</span>), fold into the sauce, then half into the pan. <b>Bowl B</b> over it, remaining pasta, then the rest of Bowl B. Level the top; it should sit about <b>2&frac14; in</b> up the side.</li>
+    <li><b>Pan &rarr; oven.</b> <b>350&deg;F</b> for <b>30 to 35 minutes</b>, edges bubbling and center set, then <b>broil 2 minutes</b>. Rest 5 minutes, scatter the chives, cut and serve.</li>
   </ol>
 </section>
 
@@ -288,8 +293,8 @@ footer p{margin:.35rem 0}
 
 <script>
 (function(){
-  var LS_KEY = "quarter-pan-mac-gathered-v1";
-  var boxes = Array.prototype.slice.call(document.querySelectorAll('#ing input[type=checkbox]'));
+  var LS_KEY = "quarter-pan-mac-mise-v1";
+  var boxes = Array.prototype.slice.call(document.querySelectorAll('#mise input[type=checkbox], #stove input[type=checkbox]'));
   var countEl = document.getElementById('count');
   var barFill = document.getElementById('barfill');
 
@@ -303,7 +308,7 @@ footer p{margin:.35rem 0}
       if (b.checked) { row.classList.add('done'); n++; }
       else { row.classList.remove('done'); }
     });
-    countEl.textContent = n + " of " + boxes.length + " gathered";
+    countEl.textContent = n + " of " + boxes.length + " placed";
     barFill.style.width = Math.round((n / boxes.length) * 100) + "%";
   }
 
