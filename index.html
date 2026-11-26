@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Baked Mac and Cheese for a Quarter Hotel Pan</title>
-<meta name="description" content="Tineke Younger's baked mac and cheese, ad-free, rescaled from a 9x13 batch to one 6x10 quarter hotel pan.">
+<title>Baked Mac and Cheese for a 13.5 x 9 5/8 x 2 3/4 Pan</title>
+<meta name="description" content="Tineke Younger's baked mac and cheese, ad-free, rescaled to one 13.5 x 9 5/8 x 2 3/4 inch pan (6.2 qt pan, 5.2 qt batch).">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23c9761b'/%3E%3Ctext x='16' y='24' font-size='21' text-anchor='middle' fill='%23fff8ec' font-family='Georgia,serif'%3Em%3C/text%3E%3C/svg%3E">
 <style>
 :root{
@@ -55,22 +55,15 @@ h2{
   color:var(--accent-ink);margin:0 0 .8rem;padding-bottom:.45rem;border-bottom:1px solid var(--line)
 }
 
-/* pan toggle */
-.batch{display:grid;grid-template-columns:1fr 1fr;gap:.5rem}
-.batch + .batch{margin-top:.5rem}
-.batch button{
-  font:inherit;font-size:.85rem;line-height:1.25;
-  padding:.7rem .6rem;min-height:56px;
-  background:var(--card);color:var(--ink-soft);
-  border:2px solid var(--line);border-radius:2px;cursor:pointer;text-align:left
+/* pan spec */
+.spec{display:grid;grid-template-columns:1fr 1fr;gap:.5rem;margin:0}
+.spec div{
+  background:var(--card);border:1px solid var(--line);border-radius:2px;
+  padding:.6rem .7rem;font-size:.8rem;color:var(--ink-soft)
 }
-.batch button b{display:block;color:var(--ink);font-size:.95rem}
-.batch button .tick{display:none;margin-right:.3rem}
-.batch button[aria-pressed="true"] .tick{display:inline}
-.batch button[aria-pressed="true"]{
-  border-color:var(--accent);background:#fdf0dd;color:var(--accent-ink)
-}
-.batch button[aria-pressed="true"] b{color:var(--accent-ink)}
+.spec b{display:block;font-size:1rem;color:var(--ink);font-variant-numeric:tabular-nums}
+.spec div.key{border-color:var(--accent);background:#fdf0dd}
+.spec div.key b{color:var(--accent-ink)}
 
 /* scaling table */
 table.scale{width:100%;border-collapse:collapse;font-size:.88rem}
@@ -181,38 +174,37 @@ footer p{margin:.35rem 0}
 <div class="wrap">
 
 <header>
-  <p class="eyebrow">Oven <span id="ebtemp">350&deg;F</span> &middot; Sauce, layer, broil</p>
+  <p class="eyebrow">Oven 350&deg;F &middot; Sauce, layer, broil</p>
   <h1>Baked Mac and Cheese</h1>
-  <p class="sub">Tineke Younger's holiday mac, ad-free, rescaled from a 9&times;13 batch to one quarter hotel pan.</p>
+  <p class="sub">Tineke Younger's holiday mac, ad-free, scaled &times;1&frac12; to one 13.5 &times; 9&frac58; &times; 2&frac34; in pan.</p>
   <ul class="chips">
     <li><b>350&deg;F</b> oven</li>
-    <li><b>6&times;10</b> quarter pan</li>
-    <li><b id="chiptime">18 to 22 min</b> bake</li>
+    <li><b>6.2 qt</b> pan</li>
+    <li><b>30 to 35 min</b> bake</li>
     <li><b>2 min</b> broil</li>
   </ul>
 </header>
 
 <section>
-  <h2>1. Pick your quarter pan</h2>
-  <div class="batch">
-    <button type="button" id="p1" aria-pressed="true" data-pan="a">
-      <b><span class="tick" aria-hidden="true">&#10003;</span>2&frac12; in deep</b>Standard 6&times;10 &middot; &#8532; of the video batch
-    </button>
-    <button type="button" id="p2" aria-pressed="false" data-pan="b">
-      <b><span class="tick" aria-hidden="true">&#10003;</span>4 in deep</b>Deep 6&times;10 &middot; full video batch
-    </button>
+  <h2>1. Your pan</h2>
+  <div class="spec">
+    <div><b>13.5 &times; 9&frac58; in</b>inside footprint, 130 in&sup2;</div>
+    <div><b>2&frac34; in</b>depth</div>
+    <div><b>6.2 qt</b>total volume (5.85 L)</div>
+    <div class="key"><b>2&frac14; in</b>target fill depth</div>
   </div>
 </section>
 
 <section>
-  <h2>2. Why these numbers</h2>
+  <h2>2. Where the numbers come from</h2>
+  <p class="sub" style="margin:0 0 .7rem">The video gives no pan size. Its batch &mdash; 1 lb pasta, 28 oz dairy, 40 oz cheese &mdash; is roughly 3&frac12; quarts and is shot in a 9&times;13. Your pan is bigger in every direction, so the batch scales up 1&frac12;&times; and lands about 2&frac14; in deep, leaving a half inch for the boil and the broil.</p>
   <table class="scale">
-    <caption>Quantities are ⅔ of the video for the 2&frac12; in pan, 1&times; for the 4 in pan. Video does not state pan size; 1 lb pasta + that much sauce is a 9&times;13, which is the same footprint as a quarter pan but deeper than 2&frac12; in.</caption>
-    <thead><tr><th>Vessel</th><th>Footprint</th><th>Volume</th></tr></thead>
+    <caption>130 in&sup2; is the half-pan footprint (12&frac34; &times; 10&frac38;), not the 60 in&sup2; quarter pan. Volume is footprint &times; depth.</caption>
+    <thead><tr><th>Vessel</th><th>Footprint</th><th>Volume</th><th>Batch</th></tr></thead>
     <tbody>
-      <tr><td>9&times;13 casserole (video)</td><td>117 in&sup2;</td><td>4.1 qt at 2 in</td></tr>
-      <tr id="rowa"><td>Quarter pan, 2&frac12; in</td><td>60 in&sup2;</td><td>2.6 qt</td></tr>
-      <tr id="rowb"><td>Quarter pan, 4 in</td><td>60 in&sup2;</td><td>4.2 qt</td></tr>
+      <tr><td>9&times;13 casserole (video)</td><td>117 in&sup2;</td><td>4.0 qt at 2 in</td><td>1&times;</td></tr>
+      <tr><td>Quarter pan, 2&frac12; in</td><td>60 in&sup2;</td><td>2.6 qt</td><td>&#8532;&times;</td></tr>
+      <tr class="you"><td>Your pan</td><td>130 in&sup2;</td><td>6.2 qt</td><td>1&frac12;&times;</td></tr>
     </tbody>
   </table>
 </section>
@@ -220,22 +212,22 @@ footer p{margin:.35rem 0}
 <section>
   <h2>3. Ingredients</h2>
   <ul class="ing" id="ing">
-    <li><label class="pick"><input type="checkbox" data-k="i1"><span class="txt"><span class="qty" data-a="10 oz" data-b="1 lb">10 oz</span> cavatelli<small>Dry weight. The holes hold the sauce; penne or shells work too.</small></span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i2"><span class="txt"><span class="qty" data-a="10 oz" data-b="1 lb">10 oz</span> low-moisture mozzarella, shredded</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i3"><span class="txt"><span class="qty" data-a="10 oz" data-b="1 lb">10 oz</span> Colby Jack, shredded</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i4"><span class="txt"><span class="qty" data-a="5 oz" data-b="8 oz">5 oz</span> sharp cheddar, shredded</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i5"><span class="txt"><span class="qty" data-a="2 tbsp" data-b="3 tbsp">2 tbsp</span> butter</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i6"><span class="txt"><span class="qty" data-a="2 tbsp" data-b="3 tbsp">2 tbsp</span> all-purpose flour</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i7"><span class="txt"><span class="qty" data-a="8 oz" data-b="12 oz can">8 oz</span> evaporated milk<small>Not condensed. The 12 oz can leaves 4 oz over in the small batch.</small></span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i8"><span class="txt"><span class="qty" data-a="1&frac13; cups" data-b="2 cups">1&frac13; cups</span> heavy cream</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i9"><span class="txt"><span class="qty" data-a="2 tsp" data-b="1 tbsp">2 tsp</span> Dijon mustard</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i10"><span class="txt"><span class="qty" data-a="1&frac14; tsp" data-b="2 tsp">1&frac14; tsp</span> kosher salt<small>Plus a handful for the pasta water.</small></span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i11"><span class="txt"><span class="qty" data-a="1&frac12; tsp" data-b="2&frac14; tsp">1&frac12; tsp</span> smoked paprika<small>He goes heavy. This is already the heavy end.</small></span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i12"><span class="txt"><span class="qty" data-a="1 tsp" data-b="1&frac12; tsp">1 tsp</span> garlic powder</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i13"><span class="txt"><span class="qty" data-a="&frac12; tsp" data-b="&frac34; tsp">&frac12; tsp</span> black pepper</span></label></li>
-    <li><label class="pick"><input type="checkbox" data-k="i14"><span class="txt"><span class="qty" data-a="1 tbsp" data-b="1&frac12; tbsp">1 tbsp</span> chives, snipped<small>Finish only. Optional but it is the color in the bowl.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i1"><span class="txt"><span class="qty">1&frac12; lb</span> cavatelli<small>Dry weight. The holes hold the sauce; penne or shells work too.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i2"><span class="txt"><span class="qty">1&frac12; lb</span> low-moisture mozzarella, shredded</span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i3"><span class="txt"><span class="qty">1&frac12; lb</span> Colby Jack, shredded</span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i4"><span class="txt"><span class="qty">12 oz</span> sharp cheddar, shredded</span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i5"><span class="txt"><span class="qty">4&frac12; tbsp</span> butter</span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i6"><span class="txt"><span class="qty">4&frac12; tbsp</span> all-purpose flour</span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i7"><span class="txt"><span class="qty">18 oz</span> evaporated milk<small>Not condensed. A can and a half of the 12 oz size.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i8"><span class="txt"><span class="qty">3 cups</span> heavy cream</span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i9"><span class="txt"><span class="qty">1&frac12; tbsp</span> Dijon mustard</span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i10"><span class="txt"><span class="qty">3 tsp</span> kosher salt<small>1 tbsp Diamond Crystal, or 2 tsp Morton's. Plus a handful for the pasta water.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i11"><span class="txt"><span class="qty">3&frac12; tsp</span> smoked paprika<small>He goes heavy. This is already the heavy end.</small></span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i12"><span class="txt"><span class="qty">2&frac14; tsp</span> garlic powder</span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i13"><span class="txt"><span class="qty">1 tsp</span> black pepper</span></label></li>
+    <li><label class="pick"><input type="checkbox" data-k="i14"><span class="txt"><span class="qty">2 tbsp</span> chives, snipped<small>Finish only. Optional but it is the color in the bowl.</small></span></label></li>
   </ul>
-  <div class="progress"><span id="count">0 of 14 gathered</span><span id="yield">Serves 4 to 5</span></div>
+  <div class="progress"><span id="count">0 of 14 gathered</span><span id="yield">Serves 9 to 12</span></div>
   <div class="bar"><i id="barfill"></i></div>
 </section>
 
@@ -246,11 +238,11 @@ footer p{margin:.35rem 0}
     <li>Shred every cheese. Split each one into two bowls: half for the sauce, half for layering. Two bowls total, not six.</li>
     <li>Small bowl: mix the salt, smoked paprika, garlic powder and pepper. Split that in half too. Half blooms in the butter, half goes into the sauce later.</li>
     <li>Low heat: melt the butter, add half the seasoning, bloom <b>30 seconds</b>. Stir, do not brown.</li>
-    <li>Add the flour. Cook on low <b>3 to 5 minutes</b> until it smells like toasted bread, not raw flour.</li>
+    <li>Add the flour. Cook on low <b>4 to 6 minutes</b> until it smells like toasted bread, not raw flour.</li>
     <li>Switch to a whisk. Stream in the evaporated milk, whisking out every lump, then stream in the heavy cream. Add the other half of the seasoning. Low to medium-low, never a boil.</li>
-    <li>Whisk in the Dijon, then the sauce-half cheese a handful at a time, letting each melt before the next. <span class="warn">Keep the heat low or the cheese breaks and turns grainy.</span> Too thick? Splash of milk.</li>
-    <li>Fold the pasta into the sauce with a spatula. Half the pasta into the pan, half the layering cheese, remaining pasta, remaining cheese.</li>
-    <li><b>350&deg;F</b>, <span id="steptime">18 to 22 minutes</span>, until the edges bubble, then <b>broil 2 minutes</b> for the crust. Rest 5 minutes, scatter the chives, cut and serve.</li>
+    <li>Whisk in the Dijon, then the sauce-half cheese a handful at a time, letting each melt before the next. <span class="warn">Keep the heat low or the cheese breaks and turns grainy.</span> This is the biggest batch of sauce here, so keep the pan moving and off the boil. Too thick? Splash of milk.</li>
+    <li>Fold the pasta into the sauce with a spatula. Half the pasta into the pan, half the layering cheese, remaining pasta, remaining cheese. Spread level; the surface should sit about <b>2&frac14; in</b> up the side.</li>
+    <li><b>350&deg;F</b> for <b>30 to 35 minutes</b>, until the edges bubble and the center is set, then <b>broil 2 minutes</b> for the crust. Rest 5 minutes, scatter the chives, cut and serve.</li>
   </ol>
 </section>
 
@@ -258,7 +250,7 @@ footer p{margin:.35rem 0}
   <h2>5. Bake timer</h2>
   <div class="timer" id="timerbox">
     <div class="clock" id="clock">00:00</div>
-    <p class="state" id="state">Start it the moment the pan goes in the oven.</p>
+    <p class="state" id="state">Start it the moment the pan goes in the oven. Edge check at 30 min, broiler at 35.</p>
     <div class="trow">
       <button type="button" id="tstart">Start</button>
       <button type="button" class="ghost" id="treset">Reset</button>
@@ -269,18 +261,19 @@ footer p{margin:.35rem 0}
 <section>
   <h2>6. Notes worth reading</h2>
   <ul class="notes">
-    <li class="hot"><b>Pan math.</b> The video never says what dish it uses. 1 lb dry pasta plus 28 oz of dairy and 40 oz of cheese lands around 3 to 3&frac12; quarts, which is a 9&times;13&times;2. A quarter pan shares that footprint but is only 2&frac12; in deep, so the small batch is ⅔ of everything and fills it to about ¾. Going deeper than 2&frac12; in is what gets you the soggy middle.</li>
+    <li class="hot"><b>Why 1&frac12;&times; and not 2&times;.</b> Your pan is 6.2 qt empty. The batch needs to finish around 5 qt so it bubbles up rather than over, and 1&frac12;&times; the video lands there: about 5.2 qt, or 2&frac14; in of a 2&frac34; in well. Doubling would put 7 qt in a 6.2 qt pan.</li>
+    <li class="hot"><b>Watch the salt.</b> Cheese brings a lot; 1 tbsp Diamond Crystal is right, the same spoon of Morton's is noticeably salty. Season the sauce, then taste before the pasta goes in.</li>
     <li class="hot"><b>Do not substitute condensed milk.</b> Evaporated is unsweetened and reduced; condensed is sweetened and roughly a third sugar.</li>
     <li>Grainy sauce is heat, not the recipe. Cheese goes in off-boil, low, a handful at a time.</li>
-    <li>Seasoning amounts are eyeballed in the video. Taste the sauce before the pasta goes in and correct it there.</li>
+    <li>The pan is 2&frac34; in deep, so the middle takes longer than a 9&times;13 bake. If the center still sloshes at 35 min, give it 5 more; if the top darkens, tent with foil.</li>
     <li>Broiler is the last 2 minutes only, and it goes from crust to carbon fast. Stand at the oven.</li>
-    <li>Make-ahead: boil 7 minutes, assemble, refrigerate covered up to 24 hours. Add 8 to 10 minutes to the bake, still covered for the first half.</li>
+    <li>Make-ahead: boil 7 minutes, assemble, refrigerate covered up to 24 hours. Add 10 minutes to the bake, covered with foil for the first half.</li>
     <li>Reheat portions at 350&deg;F covered with foil, splash of milk on top.</li>
   </ul>
 </section>
 
 <footer>
-  <p>Source: <a href="https://www.tiktok.com/@tinekeyounger/video/7703704324790111502">&ldquo;How to make Mac N cheese for this Holiday season&rdquo; &mdash; @tinekeyounger on TikTok</a>. Quantities read from the video's own audio; pan scaling is mine.</p>
+  <p>Source: <a href="https://www.tiktok.com/@tinekeyounger/video/7703704324790111502">&ldquo;How to make Mac N cheese for this Holiday season&rdquo; &mdash; @tinekeyounger on TikTok</a>. Quantities read from the video's own audio; the 1&frac12;&times; scaling is mine.</p>
   <p>No ads, no autoplay, no life story before the recipe.</p>
 </footer>
 
@@ -298,7 +291,6 @@ footer p{margin:.35rem 0}
   var boxes = Array.prototype.slice.call(document.querySelectorAll('#ing input[type=checkbox]'));
   var countEl = document.getElementById('count');
   var barFill = document.getElementById('barfill');
-  var yieldEl = document.getElementById('yield');
 
   var saved = {};
   try { saved = JSON.parse(localStorage.getItem(LS_KEY) || "{}") || {}; } catch (e) { saved = {}; }
@@ -324,45 +316,16 @@ footer p{margin:.35rem 0}
   });
   paint();
 
-  var qtyEls = Array.prototype.slice.call(document.querySelectorAll('.qty'));
-  var p1 = document.getElementById('p1');
-  var p2 = document.getElementById('p2');
-
-  var PAN = {
-    a: { time: "18 to 22 min", warn: 17, now: 22, yieldTxt: "Serves 4 to 5", deep: false },
-    b: { time: "20 to 25 min", warn: 20, now: 25, yieldTxt: "Serves 6 to 8", deep: true }
-  };
-  var pan = "a";
-
-  function setPan(which, keepTimer){
-    pan = which;
-    p1.setAttribute('aria-pressed', String(which === 'a'));
-    p2.setAttribute('aria-pressed', String(which === 'b'));
-    qtyEls.forEach(function(el){
-      var v = el.getAttribute('data-' + which);
-      if (v) { el.innerHTML = v; }
-    });
-    var P = PAN[which];
-    document.getElementById('rowa').className = (which === 'a') ? 'you' : '';
-    document.getElementById('rowb').className = (which === 'b') ? 'you' : '';
-    document.getElementById('chiptime').innerHTML = P.time;
-    document.getElementById('steptime').textContent = P.time;
-    yieldEl.textContent = P.yieldTxt;
-    if (!keepTimer) { reset(); }
-  }
-  p1.addEventListener('click', function(){ setPan('a', false); });
-  p2.addEventListener('click', function(){ setPan('b', false); });
-
+  var EDGE = 30 * 60, BROIL = 35 * 60;
   var t0 = null, tick = null;
   var clock = document.getElementById('clock');
   var state = document.getElementById('state');
   var box = document.getElementById('timerbox');
   var startBtn = document.getElementById('tstart');
   var jumpBar = document.getElementById('bar');
-  var jumpBtn = document.getElementById('jumpbtn');
 
   function idleText(){
-    return "Start it the moment the pan goes in the oven. Broil at " + PAN[pan].now + " min.";
+    return "Start it the moment the pan goes in the oven. Edge check at 30 min, broiler at 35.";
   }
   function fmt(s){
     var m = Math.floor(s / 60), r = s % 60;
@@ -383,15 +346,14 @@ footer p{margin:.35rem 0}
     if (navigator.vibrate) { navigator.vibrate(400); }
   }
   function render(){
-    var P = PAN[pan];
     var s = Math.floor((Date.now() - t0) / 1000);
     clock.textContent = fmt(s);
     box.classList.remove('warn', 'now');
-    if (s < P.warn * 60) {
-      state.textContent = "Baking. Check the edges at " + P.warn + " min.";
-    } else if (s < P.now * 60) {
+    if (s < EDGE) {
+      state.textContent = "Baking. Edges start bubbling around 30 min.";
+    } else if (s < BROIL) {
       box.classList.add('warn');
-      state.textContent = P.warn + " min gone. Look for bubbling edges and a set center.";
+      state.textContent = "30 min gone. Look for bubbling edges and a set center. Sloshing? Give it 5 more.";
     } else {
       box.classList.add('now');
       state.textContent = "Broil 2 minutes now, then rest 5 minutes before cutting.";
@@ -405,8 +367,7 @@ footer p{margin:.35rem 0}
     render();
     tick = setInterval(function(){
       var s = Math.floor((Date.now() - t0) / 1000);
-      var P = PAN[pan];
-      if (s === P.warn * 60 || s === P.now * 60) { ring(); }
+      if (s === EDGE || s === BROIL) { ring(); }
       render();
     }, 1000);
   });
@@ -420,11 +381,9 @@ footer p{margin:.35rem 0}
     jumpBar.classList.remove('started');
   }
   document.getElementById('treset').addEventListener('click', reset);
-  jumpBtn.addEventListener('click', function(){
-    document.getElementById('timerbox').scrollIntoView({ behavior: "smooth", block: "center" });
+  document.getElementById('jumpbtn').addEventListener('click', function(){
+    box.scrollIntoView({ behavior: "smooth", block: "center" });
   });
-
-  setPan('a', true);
 })();
 </script>
 </body>
